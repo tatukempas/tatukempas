@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm a IT engineering student at LAB University of Applied Sciences, currently also working on sales at DNA. 
+I'm a IT engineering student at LAB University of Applied Sciences, currently also working on sales at DNA. I have very active lifestyle so I'm really into sports and traveling.
+
 
 <!--
 **tatukempas/tatukempas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
