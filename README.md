@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+print("I'm a IT engineering student at LAB University of Applied Sciences")
+
 <!--
 **tatukempas/tatukempas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
