@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a IT engineering student at LAB University of Applied Sciences, currently also working on sales at DNA. I have very active lifestyle so I'm really into sports and traveling.
+I'm a IT engineering student at LAB University of Applied Sciences, currently also working on sales at DNA. I have very active lifestyle so I'm really into sports and travelling.
 
 
 <!--
